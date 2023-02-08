@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @italojsr
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics with Python
+- 🌱 I’m currently learning Machine Learning with Python
 - 📫 How to reach me italoreis99@gmail.com
 
 <!---
